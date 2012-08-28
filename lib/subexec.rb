@@ -26,7 +26,7 @@
 # puts sub.exitstatus # returns:
 
 class Subexec
-  VERSION = '0.2.2'
+  VERSION = '0.0.5'
 
   attr_accessor :pid,
                 :command,
